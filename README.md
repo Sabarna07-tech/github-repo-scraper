@@ -15,5 +15,5 @@ This is a simple web application that scrapes GitHub repositories for key inform
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-repo-scraper.git
+   git clone https://github.com/Sabarna07-tech/github-repo-scraper.git
    ```
